@@ -1,5 +1,8 @@
 # Understanding Obsessive-Compulsive Disorder (OCD) Trends: A Data Analysis
 
+![corr resize](https://github.com/TeniOT/Exploring-correlation-in-Python-with-OCD-Dataset/assets/164643376/66ee4722-9220-4750-9cee-c729051b89f0)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset Overview](#dataset-overview)
