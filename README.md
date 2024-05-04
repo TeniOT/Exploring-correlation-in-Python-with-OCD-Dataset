@@ -12,7 +12,7 @@
 - [References](#references)
 
 ## Introduction
-Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In this data analysis, we explore trends related to OCD using a dataset collected from various sources. Our goal is to gain insights into the prevalence, symptoms, and potential risk factors associated with OCD.
+Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In this data analysis, we explore trends related to OCD using a dataset collected from various sources. The goal is to gain insights into the prevalence, symptoms, and potential risk factors associated with OCD.
 
 ### Dataset Overview
 - **Source**: The dataset combines survey responses, clinical records, and research studies related to OCD.
@@ -24,7 +24,7 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
 
 ### Exploratory Data Analysis
 1. Demographics:
-    - We start by examining the distribution of gender and ethnicity among individuals with OCD.
+    - Started by examining the distribution of gender and ethnicity among individuals with OCD.
     - Visualised gender and ethnicity proportions using bar charts.
 
 
