@@ -1,4 +1,4 @@
-# Understanding Obsessive-Compulsive Disorder (OCD) Trends: A Data Analysis
+# Understanding Obsessive-Compulsive Disorder (OCD) Trends with Data Analysis
 
 ![Causes-of-OCD image resize](https://github.com/TeniOT/Understanding-Obsessive-Compulsive-Disorder-OCD-Trends-A-Data-Analysis/assets/164643376/1a08941d-5635-463c-8e65-9d53e8264732)
 
@@ -18,7 +18,7 @@ Photo by emotionalwellnesclinic.co.uk
 
 
 ## Introduction
-Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In this data analysis, we explore trends related to OCD using a dataset collected from various sources. The goal is to gain insights into the prevalence, symptoms, and potential risk factors associated with OCD.
+Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In this statistical correlation analysis, we explore trends related to OCD using a dataset collected from various sources. The goal is to gain insights into the prevalence, symptoms, and potential risk factors associated with OCD.
 
 
 ### Dataset Overview
