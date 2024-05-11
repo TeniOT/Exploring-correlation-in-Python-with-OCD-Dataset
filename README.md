@@ -1,6 +1,6 @@
 # Understanding Obsessive-Compulsive Disorder (OCD) Trends: A Data Analysis
 
-![corr resize](https://github.com/TeniOT/Exploring-correlation-in-Python-with-OCD-Dataset/assets/164643376/66ee4722-9220-4750-9cee-c729051b89f0)
+
 
 
 ## Table of Contents
@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Findings](#key-findings)
 - [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
 - [References](#references)
 
 ## Introduction
@@ -45,20 +46,23 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
     - Analyse the number of different treatment approaches (medication or none.
     - Compare remission rates and relapse rates across treatments.
 
-
+6. Using Pearson correlation heatmap matrix, there was no correlation found between any of the data parameters, therefore there was no significant factors influencing the dataset.
+   ![corr resize](https://github.com/TeniOT/Exploring-correlation-in-Python-with-OCD-Dataset/assets/164643376/66ee4722-9220-4750-9cee-c729051b89f0)
 
 ### Key Findings
-I. Age and Gender:
-- Individuals aged 25-34 show the highest prevalence of OCD.
-- Females are slightly more affected than males.
+I. Demographics:
+- Individuals aged **25-34 yrs** show the highest prevalence of OCD.
+- **Females** are slightly more affected than males.
+- **Caucasians** show more prevalence for OCD with 26.53%, slightly follwed by **_Hispanic_** with 26.13%.
+- **Africans** show the lowest number of OCD diagnosis.
 
 II. Number of Patients with OCD:
-- In general, the highest number of Diagnosis were recorded in January 
-- The month of January has the highest number of Diagnosis for Females (by age) but Month of August for Males (by age)
+- In general, the highest number of Diagnosis were recorded in January. 
+- Number of patients diagnosis rose significantly in the year 2018 with a slight fall in 2019 and maintained an almost stable state till 2022.
 
 III. Symptom Severity:
-- Females have the highest number of Y-BOCS Score (Obsessions) compared to Male
-- But, Males have the highest number of Y-BOCS Score (Compulsions) compared to Female
+- Females had the highest number of Y-BOCS Score (Obsessions) compared to male.
+- But, Males have the highest number of Y-BOCS Score (Compulsions) compared to Female.
 
 IV. Most Common Type of OCD
 - Most participants report moderate to severe symptoms.
@@ -68,12 +72,19 @@ IV. Most Common Type of OCD
 - Addressing these comorbidities is essential for comprehensive treatment.
 
 V. Treatment Insights:
-- There is a equal number of patients with no medication therapy treatment and patients treated with Benzodiazepines.
+- There is a equal number of patients with NONE medication therapy treatment and patients treated with Benzodiazepines.
 - The most prescribed medication is Benzodiazepines.
-- Further research is needed to explore the most prescribed Benzodiazepam by name (e.g. brand, generic or proprietary).
+- Further research is needed to explore the most prescribed Benzodiazepines by name (e.g. brand, generic or proprietary).
 
 ### Conclusion
-Understanding OCD trends is crucial for improving diagnosis, treatment, and support for affected individuals. Further research should explore genetic factors, environmental triggers, and personalised interventions.
+- Understanding OCD trends is crucial for improving diagnosis, treatment, and support for affected individuals. OCD seems to be more predominant in the Female population and Caucasians.
+- The short decline in diagnosis in the year 2019 and stable till 2022 could be due to operational closures and lockdown from COVID-19
+
+
+
+### Recommendations
+- Further research should explore genetic factors, environmental triggers, and personalised interventions for OCD diagnosis
+- More research needs to be done to analyse the low count of Africans in OCD diagnosis and if genetics, family or environment play a huge role.
 
 
 ### References
