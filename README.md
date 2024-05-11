@@ -47,6 +47,7 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
     - Compare remission rates and relapse rates across treatments.
 
 6. Using Pearson correlation heatmap matrix, there was no correlation found between any of the data parameters, therefore there was no significant factors influencing the dataset.
+   
    ![corr resize](https://github.com/TeniOT/Exploring-correlation-in-Python-with-OCD-Dataset/assets/164643376/66ee4722-9220-4750-9cee-c729051b89f0)
 
 ### Key Findings
