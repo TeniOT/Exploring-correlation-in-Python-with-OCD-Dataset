@@ -27,7 +27,7 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
  [View Dataset](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/)
 - **Variables**: It includes information on demographics, symptom severity, treatment methods, and comorbidities.
 - **Size**: The dataset contains 1500 rows and 17 columns.
-- **Tools**: Python [pandas, seaborn, matplotlib] via Jupyter Notebook, PowerBI
+- **Tools**: Python [pandas, seaborn, matplotlib] via Jupyter Notebook and PowerBI
 
 ----
 
