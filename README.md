@@ -54,7 +54,7 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
     - Analyse the number of different treatment approaches (medication or none.
     - Compare remission rates and relapse rates across treatments.
 
-6. Using Pearson correlation heatmap matrix, there was no correlation found between any of the data parameters, therefore there was no significant factors influencing the dataset.
+6. Using the Pearson correlation heatmap matrix, there were no correlation found between any of the data parameters, therefore there was no significant factors influencing the dataset.
    
    ![corr resize](https://github.com/TeniOT/Exploring-correlation-in-Python-with-OCD-Dataset/assets/164643376/66ee4722-9220-4750-9cee-c729051b89f0)
 
@@ -65,10 +65,10 @@ Obsessive-Compulsive Disorder (OCD) affects millions of people worldwide. In thi
 ![page 1 resize](https://github.com/TeniOT/Understanding-Obsessive-Compulsive-Disorder-OCD-Trends-A-Data-Analysis/assets/164643376/eb633b01-8ef6-4e4c-bf05-3f08d5cd3f37)
 
 I. Demographics:
-- Individuals aged **25-34 yrs** show the highest prevalence of OCD.
+- Individuals aged **25-34 years** show the highest prevalence of OCD.
 - **Females** are slightly more affected than males.
-- **Caucasians** show more prevalence for OCD with 26.53%, slightly follwed by **_Hispanic_** with 26.13%.
-- **Africans** show the lowest number of OCD diagnosis.
+- **Caucasians** show more prevalence for OCD with 26.53%, slightly followed by **_Hispanics_** with 26.13%.
+- **Africans** show the lowest number of OCD diagnoses.
 
 II. Number of Patients with OCD:
 - In general, the highest number of Diagnosis were recorded in January. 
@@ -107,6 +107,6 @@ V. Treatment Insights:
 
 ### References
 - [Kaggle](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/)
-- To Learn more about OCD [Visit NHS.UK](https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/)
+- To learn more about OCD [Visit NHS.UK](https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/)
 
 
